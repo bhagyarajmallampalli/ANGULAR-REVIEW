@@ -6,12 +6,13 @@ import { AuthorsComponent } from './authors/authors.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AuthorsComponent
   ],
   imports: [
     BrowserModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AuthorsComponent]
 })
 export class AppModule { }

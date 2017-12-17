@@ -3,11 +3,11 @@
 This project has been created to handle a code review by the candidate. Project has error inside that the candidate should solve.
 
 Candidate should run and find the bug inside the code
-* Application gives an error where and why
-* Refactor the `authors` component name to align to angular standards
-* Refactor improve `AuthorsComponent` to show the list of authors through an array
-* Refactor improve `App` with `AuthorsService` to get authors list
-* Refactor improve `AuthorsComponent` to use a service `AuthorsService` to get authors list
+* Application gives an error where and why - [Bhagya] Fixed
+* Refactor the `authors` component name to align to angular standards - [Bhagya] Refactered
+* Refactor improve `AuthorsComponent` to show the list of authors through an array - [Bhagya] Refactered
+* Refactor improve `App` with `AuthorsService` to get authors list -[Bhagya] Refactered
+* Refactor improve `AuthorsComponent` to use a service `AuthorsService` to get authors list - [Bhagya] Refactered
 * Add unit testing for `AuthorsComponent` and `AuthorsService`
 * Add e2e testing for `AuthorsComponent`
 

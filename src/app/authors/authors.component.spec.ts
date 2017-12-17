@@ -19,7 +19,8 @@ describe('AuthorsComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
+  it('authors should not be null', () => {
+    expect(component).toBeDefined(true);
   });
+
 });
